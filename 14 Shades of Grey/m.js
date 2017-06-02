@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Price to Play.mp3";		
+f[2]	= "02 How About You.mp3";		
+f[3]	= "03 So Far Away.mp3";		
+f[4]	= "04 Yesterday.mp3";		
+f[5]	= "05 Fray.mp3";		
+f[6]	= "06 Zoe Jane.mp3";		
+f[7]	= "07 Fill Me Up.mp3";		
+f[8]	= "08 Layne.mp3";		
+f[9]	= "09 Falling Down.mp3";		
+f[10]	= "10 Reality.mp3";		
+f[11]	= "11 Tonight.mp3";		
+f[12]	= "12 Could It Be.mp3";		
+f[13]	= "13 Blow Away.mp3";		
+f[14]	= "14 Intro.mp3";		
